@@ -2,6 +2,7 @@
 a demo like spring IOC context
 
 feature:
+
 1: bean initing lazy and wired by hand
 
 2: implement bean scope sington and prorotype
